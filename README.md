@@ -1,4 +1,4 @@
-Hi! I am Laura Pimentel!
+Hi! I am Laura Pimentel.
 
 <!---
 pimentelaura/pimentelaura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
